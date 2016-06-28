@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello,
+
+I am a student studying Finance and CIS. I love cats and camping. 
